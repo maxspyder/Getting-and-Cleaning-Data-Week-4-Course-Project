@@ -1,4 +1,14 @@
 # Getting-and-Cleaning-Data-Week-4-Course-Project
+=================================================================
+##**Overview of Course Project**
+
+
+
+
+
+
+
+
 ==================================================================
 **Human Activity Recognition Using Smartphones Dataset**
 **UPDATED VERSION (TIDY)**
